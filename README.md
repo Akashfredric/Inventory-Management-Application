@@ -20,11 +20,7 @@ with usages like :
 
 ## SAMPLE
 
-![1Application Overview](https://user-images.githubusercontent.com/72338854/101889785-d13d8c80-3bc5-11eb-94d7-e870d422237e.png)
-![add-product](https://user-images.githubusercontent.com/72338854/101889822-dbf82180-3bc5-11eb-9cfb-5f3597d209c0.png)
-![After insertion POPUP message](https://user-images.githubusercontent.com/72338854/101889856-e6b2b680-3bc5-11eb-89ec-00c5e995a517.png)
-![Deleting Product row](https://user-images.githubusercontent.com/72338854/101889880-efa38800-3bc5-11eb-849f-97962150b449.png)
-![After delete Popup message](https://user-images.githubusercontent.com/72338854/101889898-f6ca9600-3bc5-11eb-8563-8ff75c39a782.png)
+
 
 
 ## Technologies used
