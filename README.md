@@ -19,8 +19,7 @@ with usages like :
 ##### 3.Storing Product Details
 
 ## SAMPLE
-
-
+![Add product](https://user-images.githubusercontent.com/72338854/102229532-eb52d400-3f11-11eb-94a7-0d5707415f56.jpg)
 
 
 ## Technologies used
