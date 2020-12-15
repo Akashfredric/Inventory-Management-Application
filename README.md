@@ -21,6 +21,14 @@ with usages like :
 ## SAMPLE
 ![Add product](https://user-images.githubusercontent.com/72338854/102229532-eb52d400-3f11-11eb-94a7-0d5707415f56.jpg)
 
+![Overview](https://user-images.githubusercontent.com/72338854/102229700-14736480-3f12-11eb-949b-3d5d957e63d5.jpg)
+
+![Quantity](https://user-images.githubusercontent.com/72338854/102229825-310f9c80-3f12-11eb-98ae-7cd0f780e204.jpg)
+![Delete optioin](https://user-images.githubusercontent.com/72338854/102229904-4684c680-3f12-11eb-9799-eafc11c235b9.jpg)
+![Screenshot (10)](https://user-images.githubusercontent.com/72338854/102229981-59979680-3f12-11eb-97d8-951f81266dbf.jpg)
+
+
+
 
 ## Technologies used
 
